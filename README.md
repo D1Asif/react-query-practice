@@ -1,5 +1,5 @@
 # React Query Practice
-This app shows a list of products. User can see the details of a product and add new product.
+This app shows a list of products. User can see the details of a product and add new product. [Live site link](https://react-query-practice-kyap.vercel.app/)
 
 ## Features:
 1. Server created with json-server.
